@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> Julia M Pavon Rojas webpage project</title>
+<style type="text/css">
+</style>
+</head>
+<body>
+<p> </p>
+<h3>The Golden Ginko</h3>
+<p>The ginkgo (<em>Ginkgo biloba</em>)is a medium-sized tree native to the Orient, but widely planted in the Southestern US.The ginkgo is considered a &ldquo;living fossil,&rdquo;in that there are no closely related speciesstill extant. Ginkgos are prized for their vivid yellow fall leaves.<img style="float: right;" src="http://ginkopic.jpg" width="172 align=" height="220" /></p>
+<p>An unusual biological feature of the ginkgo is that it is a gymnosperm (&ldquo;naked seed&rdquo;), meaning that the ginkgo seed is not encased in a fruit. In this the ginkgo resembles pine trees, although the ginkgo is deciduous (loses its leaves in the winter).</p>
+<p>Ginkgos can be extremely long lived; one ginkgo in Shandong province, China is estimated to be 3,000 years old.&nbsp;</p>
+<h4>Source: <a href="http://en.wikipedia.org" target="_blank" rel="noopener">en.wikipedia.org</a>.</h4>
+<p>Image credit: Fisher Yu. <a href="http://www.panoramio.com/photo/61783968" target="_blank" rel="noopener">http://www.panoramio.com/<wbr />photo/61783968</a></p>
+</body>
+</html>
+
